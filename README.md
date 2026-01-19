@@ -1,4 +1,4 @@
-# Crei um programa que ler duas notas entre 0 a 10 de um aluno e calcula sua média, mostrando uma mensagem no final, de acordo com a média atingida.
+# 50-dias-de-código
 
 nota1 = float(input("Digite a 1ª nota: "))
 nota2 = float(input("Digite a 2ª nota: "))
